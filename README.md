@@ -1,9 +1,6 @@
 # Task-manager 
-**This is a web-application to help manage various tasks.**
-
-## [view demo](https://ashmankevich.github.io/task-manager/)
-
-To organize the workspace for your tasks, we created a multi-function board with cards, which are distributed to different columns depending on the implementation phase: backlog, in progress, review or done.
+## [Tap to check demo](https://ashmankevich.github.io/task-manager/)
+**This is a web-application to help manage various tasks.** To organize the workspace for your tasks, we created a multi-function board with cards, which are distributed to different columns depending on the implementation phase: backlog, in progress, review or done.
 Here in this app users have accesss to a wide range of different features: 
 
 ![This is an image](./video_sample.gif)
